@@ -1,0 +1,22 @@
+# ── Data and heavy artifacts (provided separately — see README) ──
+data/
+checkpoints/
+predictions/
+runs/
+
+# ── Regenerated outputs (CSVs, figures) ──
+results/
+*.png
+*.pdf
+
+# ── Python ──
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# ── OS / editor ──
+.DS_Store
+.vscode/
+.idea/

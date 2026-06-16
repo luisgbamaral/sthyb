@@ -1,0 +1,10 @@
+# sthyb — Python 3.9
+# TensorFlow is used in tf.compat.v1 (TF1 graph) mode throughout.
+tensorflow==2.10.0
+numpy==1.23.5
+pandas==1.5.3
+scipy==1.9.3
+scikit-learn==1.6.1
+statsmodels==0.14.6
+joblib==1.5.3
+matplotlib==3.9.4
