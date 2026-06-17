@@ -9,7 +9,8 @@ PAI / hit-rate, Moran's I and cross-sectional-dependence diagnostics.
 module ↔ method mapping, see [ARCHITECTURE.md](ARCHITECTURE.md). For the
 methods and experimental protocol in short-paper form (with formulas), see
 [docs/method_hybrids.md](docs/method_hybrids.md) and
-[docs/method_guardia.md](docs/method_guardia.md).
+[docs/method_guardia.md](docs/method_guardia.md). For the full results tables
+and critical analysis, see [docs/RESULTS.md](docs/RESULTS.md).
 
 ---
 
